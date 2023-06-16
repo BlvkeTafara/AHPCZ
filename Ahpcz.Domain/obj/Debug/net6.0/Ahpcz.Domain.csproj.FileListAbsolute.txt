@@ -1,0 +1,12 @@
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.Domain\bin\Debug\net6.0\Ahpcz.Domain.deps.json
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.Domain\bin\Debug\net6.0\Ahpcz.Domain.dll
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.Domain\bin\Debug\net6.0\Ahpcz.Domain.pdb
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.Domain\obj\Debug\net6.0\Ahpcz.Domain.csproj.AssemblyReference.cache
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.Domain\obj\Debug\net6.0\Ahpcz.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.Domain\obj\Debug\net6.0\Ahpcz.Domain.AssemblyInfoInputs.cache
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.Domain\obj\Debug\net6.0\Ahpcz.Domain.AssemblyInfo.cs
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.Domain\obj\Debug\net6.0\Ahpcz.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.Domain\obj\Debug\net6.0\Ahpcz.Domain.dll
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.Domain\obj\Debug\net6.0\refint\Ahpcz.Domain.dll
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.Domain\obj\Debug\net6.0\Ahpcz.Domain.pdb
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.Domain\obj\Debug\net6.0\ref\Ahpcz.Domain.dll

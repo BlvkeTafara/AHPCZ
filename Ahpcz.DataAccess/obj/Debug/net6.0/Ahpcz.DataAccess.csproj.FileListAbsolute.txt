@@ -1,0 +1,17 @@
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.DataAccess\bin\Debug\net6.0\Ahpcz.DataAccess.deps.json
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.DataAccess\bin\Debug\net6.0\Ahpcz.DataAccess.runtimeconfig.json
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.DataAccess\bin\Debug\net6.0\Ahpcz.DataAccess.dll
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.DataAccess\bin\Debug\net6.0\Ahpcz.DataAccess.pdb
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.DataAccess\obj\Debug\net6.0\Ahpcz.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.DataAccess\obj\Debug\net6.0\Ahpcz.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.DataAccess\obj\Debug\net6.0\Ahpcz.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.DataAccess\obj\Debug\net6.0\Ahpcz.DataAccess.AssemblyInfo.cs
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.DataAccess\obj\Debug\net6.0\Ahpcz.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.DataAccess\obj\Debug\net6.0\Ahpcz.DataAccess.dll
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.DataAccess\obj\Debug\net6.0\refint\Ahpcz.DataAccess.dll
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.DataAccess\obj\Debug\net6.0\Ahpcz.DataAccess.pdb
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.DataAccess\obj\Debug\net6.0\Ahpcz.DataAccess.genruntimeconfig.cache
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.DataAccess\obj\Debug\net6.0\ref\Ahpcz.DataAccess.dll
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.DataAccess\bin\Debug\net6.0\Ahpcz.Domain.dll
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.DataAccess\bin\Debug\net6.0\Ahpcz.Domain.pdb
+C:\Users\Blvke\source\repos\AHPCZ\Ahpcz.DataAccess\obj\Debug\net6.0\Ahpcz.DataAccess.csproj.CopyComplete
